@@ -3,6 +3,7 @@
 
 <h2>About</h2>
 Project I was working on alone during <b>autumn 2013</b>. The main goal of the project was to just familiarise myself with Android as a game development platform.
+<br>
 
 
 <h2>Screenshots</h2>
